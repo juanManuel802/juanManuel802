@@ -14,13 +14,14 @@ Most of what I work with is still in an early learning stage, but I enjoy buildi
 
 ## 🧪 Current learning areas
 
-• Linux environments (Debian for daily use, Kali Linux for cybersecurity practice)  
-• Blockchain development (Solidity / Ethereum basics)  
-• 3D modeling and prototyping (Blender)  
-• Game development basics (Godot Engine)  
-• Web development (JavaScript, HTML, CSS, React)  
-• Cloud fundamentals (AWS EC2)
-
+- **Linux environments:** Debian, Fedora, Manjaro, Ubuntu and Kali.
+- **Containers:** Docker
+- **Blockchain development:** Solidity / Ethereum basics
+- **3D modeling and prototyping:** Blender, Meshroom (photogrammetry)
+- **Game development basics:** Godot Engine
+- **Web development:** JavaScript, HTML5, CSS, React, Three.js (3D models on the web)
+- **Cloud fundamentals:** AWS EC2
+- **Geometric algebra:** early experiments with Ganja.js (visualizing geometric algebra in the browser)
 --- 
 
 ## 💼 Experience
