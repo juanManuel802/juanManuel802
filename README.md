@@ -30,3 +30,15 @@ Most of what I work with is still in an early learning stage, but I enjoy buildi
 Worked on 3D modeling, exploded visualization and video presentation for a conceptual agricultural device related to crop application systems.
 
 The modeling and visualization workflow was developed using Blender on a Debian Linux environment.
+
+
+
+
+---
+## 💻 Programming languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
